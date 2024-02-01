@@ -1,10 +1,11 @@
 # Project Nexcent - Lessons and Insights Landing Page
 
+<img width="870" alt="Screenshot 2024-02-01 121847" src="https://github.com/nareshkakkad/Project_Nexcent/assets/21363186/a75fcdc9-d74d-4e3c-bc67-67d3df726c3e">
 
 At the time I am making this project, I haven't found any designs for medium-sized (md) and small devices (sm).
 So, the responsive design of this template has been completely done by me.
 
-This Project is hosted on vercel : [Nexcent](https://project-nexcent.vercel.app/)
+This Project is hosted on vercel : [Nexcent](https://project-nexcent-smoky.vercel.app/)
 
 ## :star: Give A Star
 
@@ -31,7 +32,7 @@ Before you start, make sure you have the following software installed on your co
 
 ## 🗒️ Authors
 
-- Om Patel
+- Naresh Kakkad
 
 <p align="left">
   <a href="https://skillicons.dev">
